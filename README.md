@@ -1,2 +1,4 @@
-### 🌭🐸🏜️ Major sprout-head.
-I'm an amateur coder, with a special interest in audio and video tools. I like music, design, dogs, & vintage electronics.
+### 🌭 🐸 🏜️ 
+I'm a musician who loves to dabble in code. Coffee, code, vintage electronics, design, and digital organization are just a few things I really enjoy.
+
+Let's build something cool!
